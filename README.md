@@ -75,4 +75,4 @@ Tkinter documentation for GUI development.
 
 ## Contact
 
-For any inquiries, please reach out to **salil.16440@stu.upes.ac.in**.
+For any inquiries, please reach out to **ayush.10104@stu.upes.ac.in**.
